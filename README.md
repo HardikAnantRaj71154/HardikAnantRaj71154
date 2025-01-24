@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 <h1 align="center">Hi!👋 <br>Anant here!💫<br>Tensorflow's my fav framework 😎<br>Research Enthusiast 🧑‍🎓</h1>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
 </div>
 
 ###
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shabbir-kataleri/" target="_blank">
+  <a href="https://www.linkedin.com/in/anant-raj07/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -43,4 +43,4 @@
 ###
 
 ![snake gif](https://github.com/Shabbir05/Shabbir05/blob/output/github-snake-dark.svg)
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
