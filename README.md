@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
 <h1 align="center">Hi!👋 <br>Anant here!💫<br>Tensorflow's my fav framework 😎<br>Research Enthusiast 🧑‍🎓</h1>
 
 ###
@@ -43,4 +43,4 @@
 ###
 
 ![snake gif](https://github.com/Shabbir05/Shabbir05/blob/output/github-snake-dark.svg)
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%">
