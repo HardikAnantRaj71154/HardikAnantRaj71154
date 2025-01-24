@@ -3,12 +3,6 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
   <img width="18" />
@@ -30,6 +24,12 @@
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
   <img width="18" />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
 </div>
 
 ###
